@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-[Live Portfolio Website](https://www.nikolay.tech/)
+[Live Portfolio Website]....
 
 ## Get started
 
@@ -18,8 +18,8 @@ npm i && npm run dev
 
 ## I'm ....
 
-- 🔭 I’m the founder of 
-- 🥗 Like my content? 
+- 🔭 I’m the founder of ...
+- 🥗 Like my content? .
 - 📫 How to reach me:
   - 
 - 😄 Pronouns: he/him
