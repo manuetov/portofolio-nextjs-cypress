@@ -16,16 +16,12 @@ npm i && npm run dev
 
 [Thanks to JavaScript Mastery for the inspiration](https://www.youtube.com/watch?v=OPaLnMw2i_0&list=PL1YmAbfxmHuOsV3zmAnncnql3MMsIeO2_&index=24)
 
-## I'm Nikolay Advolodkin
+## I'm ....
 
-- 🔭 I’m the founder of [Ultimate QA](https://ultimateqa.com/)
-- 🥗 Like my content? [Buy me a salad](https://www.buymeacoffee.com/nikolaya)
+- 🔭 I’m the founder of 
+- 🥗 Like my content? 
 - 📫 How to reach me:
-  - [Youtube where you can learn at your pace](https://www.youtube.com/ultimateqa?sub_confirmation=1)
-  - [JS Testing Newsletter](https://ultimateqa.ck.page/js-testing-tips)
-  - [Read about testing](https://ultimateqa.com/)
-  - [LinkedIn](https://www.linkedin.com/in/nikolayadvolodkin/)
-  - [Twitter for great Dev quotes](https://twitter.com/intent/follow?screen_name=nikolay_a00&region=follow_link)
+  - 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a vegan that's pasionate about the 🌎, saving 🐮, and bridging the technical divide!
 
