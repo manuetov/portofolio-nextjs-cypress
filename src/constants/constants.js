@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: 'Andalucía Turismo',
-    description: "Using React, NextJs, GraphQl. Este sitio web es un blog de turismo",
-      image: '/images/andturismo.jpg',
-      tags: ['NextJs', 'React', 'GraphQl'],
+    description: "Este sitio web es un blog turístico sobre Andalucía. Creado con GraphCMS, un Sistema de Gestión de Contenidos dedicado que facilita la creación de contenido; categorías, artículos completos en markdown, información del autor, comentarios y mucho más... ",
+      image: '/images/blog-andalucia.jpg',
+      tags: ['NextJs', 'React', 'GraphQl', 'Tailwind CSS'],
     source: 'https://github.com/manuetov/turiblog_next_graphcms',
     visit: 'https://www.andaluciaturismo.es/',
     id: 0,
